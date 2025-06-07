@@ -1,0 +1,20 @@
+body {
+  background-color: #f9f9f9;
+  font-family: '微软雅黑', sans-serif;
+  text-align: center;
+  margin-top: 50px;
+}
+
+h1 {
+  color: #007acc;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007acc;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
